@@ -1,0 +1,231 @@
+.card-img-overlay h1 {
+  margin-top: 300px;
+  font-size: 62px;
+  margin-left: 30px;
+}
+
+.card-img-overlay p {
+  margin-top: 80px;
+  font-size: 62px;
+}
+.container-fluid img{
+  border-radius: 50%;
+  height:70px;
+  border:6px solid white;
+  
+}
+body {
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 12px;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+    font-size: 20px;
+}
+nav {
+
+
+  background-color: #FF1616;
+    height:70px;
+
+
+}
+.nav-item a{
+  color: white;
+    
+
+}
+
+
+
+
+ul li {
+  margin-left: 120px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.content p {
+  font-size: 22px;
+}
+
+.content p {
+  margin-top: 300px;
+  margin-top: 80px;
+}
+
+
+
+
+.p-3 {
+  color: red;
+  font-size: 30px;
+}
+
+.spider img {
+
+
+  border-radius: 20%;
+  height: 300px;
+}
+
+.blue img {
+  border-radius: 20%;
+  height: 300px;
+
+}
+.grid{
+  display: grid;
+  grid-template-columns: repeat(3,2fr);
+}
+
+.hary img {
+
+
+  border-radius: 20%;
+  height: 300px;
+}
+
+.thief img {
+
+
+  border-radius: 20%;
+  height: 300px;
+}
+
+.red img {
+
+
+  border-radius: 20%;
+  height: 300px;
+}
+
+.batman img {
+
+
+  border-radius: 20%;
+  height: 300px;
+}
+
+.aven img {
+  border-radius: 20%;
+  height: 300px;
+}
+
+.yellow img {
+  border-radius: 20%;
+  height: 300px;
+}
+
+.vj img {
+  border-radius: 20%;
+  height: 300px;
+}
+
+.dragon img {
+  border-radius: 20%;
+  height: 300px;
+}
+
+.lucky img {
+  border-radius: 20%;
+  height: 300px;
+}
+
+.eagle img {
+  border-radius: 20%;
+  height: 300px;
+}
+
+.master img {
+  border-radius: 20%;
+  height: 300px;
+}
+
+.kill img {
+  border-radius: 20%;
+  height: 300px;
+}
+
+.amaran img {
+  border-radius: 20%;
+  height: 300px;
+}
+
+h2 {
+  font-size: 22px;
+}
+
+.foot img {
+  width: 100px;
+  border-radius: 20%;
+}
+
+.foot {
+  margin-top: 600px;
+}
+
+th,
+td {
+  border-style: hidden;
+}
+
+h1 {
+  font-size: 35px;
+
+}
+
+.socialmedia {
+  display: grid;
+  grid-template-columns: repeat(3, 2fr);
+  margin-left: 1200px;
+  height: 300px;
+
+
+}
+
+.play {
+  border: 1px solid black;
+  width: 300px;
+  border-radius: 12px;
+
+
+}
+
+.play {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 12px;
+
+}
+
+.play img {
+  width: 60px;
+  height: auto;
+}
+
+.fle {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 500px;
+  
+
+
+}
+
+.app {
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid black;
+  border-radius: 12px;
+  width: 300px;
+
+
+}
+
+
+.d-flex{
+  display: flex;
+  justify-content: space-between;
+}
