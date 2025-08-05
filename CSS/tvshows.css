@@ -1,0 +1,218 @@
+.container1{
+    position:relative;
+}
+.tv{
+    position: absolute;
+    top:50px;
+    color:white;
+    font-size: 70px;
+    font-family: 'Times New Roman', Times, serif;
+    margin:300px;
+}
+.container-fluid img{
+  border-radius: 50%;
+  height:70px;
+  border:6px solid white;
+  
+}
+body {
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 12px;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+    font-size: 20px;
+}
+nav{
+  
+  
+  background-color:#FF1616;
+    height:70px;
+
+}
+.nav-item a{
+  color: white;
+    
+
+}
+ul li{
+  margin-left:120px;
+  display: flex;
+  justify-content: space-between;
+}
+.content p{
+    margin-top:300px;
+    margin-top:80px;
+}
+.grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 20px;
+      
+    }
+.p-3{
+    color:red;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+  font-size:30px;
+}
+.heist img{
+
+
+  border-radius: 20%;
+  height:300px;
+}
+.peaky img{
+
+
+  border-radius: 20%;
+  height:300px;
+}
+.crack img{
+
+
+  border-radius: 20%;
+  height:300px;
+}
+.tomrow img{
+
+
+  border-radius: 20%;
+  height:300px;
+}
+.tribes img{
+
+
+  border-radius: 20%;
+  height:300px;
+}
+.terror img{
+
+
+  border-radius: 20%;
+  height:300px;
+}
+.tribes img{
+
+
+  border-radius: 20%;
+  height:300px;
+}
+.teen img{
+
+
+  border-radius: 20%;
+  height:300px;
+}
+.alice img{
+
+
+  border-radius: 20%;
+  height:300px;
+}
+.deception img{
+
+
+  border-radius: 20%;
+  height:300px;
+}
+.vj img{
+
+
+  border-radius: 20%;
+  height:300px;
+}
+.dragon img{
+
+
+  border-radius: 20%;
+  height:300px;
+}
+.lucky img{
+
+
+  border-radius: 20%;
+  height:300px;
+}
+.amaran img{
+
+
+  border-radius: 20%;
+  height:300px;
+}
+.eagle img{
+
+
+  border-radius: 20%;
+  height:300px;
+}
+.master img{
+
+
+  border-radius: 20%;
+  height:300px;
+}
+.kill img{
+
+
+  border-radius: 20%;
+  height:300px;
+}
+.foot img{
+    width:100px;
+    border-radius: 20%;
+}
+.foot{
+    margin-top: 600px;
+}
+th, td {
+  border-style: hidden;
+}
+.socialmedia{
+  display: grid;
+  grid-template-columns: repeat(3,2fr);
+  margin-left:1200px;
+  height: 300px;
+  
+  
+}
+.play{
+  border:1px solid black;
+  width:300px;
+  border-radius: 12px;
+
+  
+}
+.d-flex{
+  display: flex;
+  justify-content: space-between;
+}
+.play {
+      display: flex;
+      justify-content: space-between;
+      margin-left:12px;
+
+    }
+
+    .play img {
+      width: 60px;
+      height: auto;
+    }
+    .fle{
+      display: flex;
+      justify-content: space-between;
+      
+      
+    }
+    .app{
+      display: flex;
+      justify-content: space-between;
+      border:1px solid black;
+      border-radius: 12px;
+        width:300px;
+
+    }
+  
