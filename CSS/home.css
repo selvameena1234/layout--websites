@@ -1,0 +1,414 @@
+nav{
+  
+  
+  background-color:#FF1616;
+  height:70px;
+  
+  
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 12px;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+    font-size: 20px;
+    
+}
+
+.nav-link{
+  color: white;
+}
+.but{
+  color:white;
+  background-color: red;
+  border-radius: 20px;
+  padding: 30px;
+    font-family: "Roboto", sans-serif;
+      
+
+
+
+}
+.cards{
+  display: grid;
+  grid-template-columns: repeat(3,2fr);
+  
+  
+}
+.card1{
+  margin-left:200px;
+  border-radius: 12px;
+  padding: 20px;
+  border: 5px solid;
+  box-shadow: 12px 12px 12px 8px black;
+  
+}
+
+  
+.card1 a{
+  background-color: red;
+}
+.card2{
+  margin-left:200px;
+  border-radius: 12px;
+  padding: 10px;
+  border: 5px solid;
+  box-shadow: 12px 12px 12px 8px black;
+    
+
+  
+}
+.card2 a{
+  background-color: red;
+}
+.card3{
+  margin-left:200px;
+  border-radius: 12px;
+  padding: 10px;
+  border: 5px solid;
+  box-shadow: 12px 12px 12px 8px black;
+  
+}
+.card3 a{
+  background-color: red;
+}
+.card-title{
+  background-color: red;
+  border-radius: 12px;
+  padding: 20px;
+}
+.text{
+  margin-left:10px;
+}
+.vd{
+  display: flex;
+  justify-content: space-between;
+  margin:70px;
+}
+.image{
+  display: flex;
+  justify-content: space-between;
+  gap:100px;
+}
+
+.d-flex{
+  display: flex;
+  justify-content: space-between;
+}
+.content p {
+  font-size: 22px;
+}
+
+.content p {
+  margin-top: 300px;
+  margin-top: 80px;
+}
+
+
+
+
+.p-3 {
+  color: red;
+  font-size: 30px;
+}
+
+.spider img {
+
+
+  border-radius: 20%;
+  height: 300px;
+}
+
+.blue img {
+  border-radius: 20%;
+  height: 300px;
+
+}
+.hary img {
+
+
+  border-radius: 20%;
+  height: 300px;
+}
+
+.thief img {
+
+
+  border-radius: 20%;
+  height: 300px;
+}
+
+.red img {
+
+
+  border-radius: 20%;
+  height: 300px;
+}
+
+.batman img {
+
+
+  border-radius: 20%;
+  height: 300px;
+}
+
+.aven img {
+  border-radius: 20%;
+  height: 300px;
+}
+.heist img{
+
+
+  border-radius: 20%;
+  height:300px;
+}
+.peaky img{
+
+
+  border-radius: 20%;
+  height:300px;
+}
+.crack img{
+
+
+  border-radius: 20%;
+  height:300px;
+}
+.tomrow img{
+
+
+  border-radius: 20%;
+  height:300px;
+}
+.tribes img{
+
+
+  border-radius: 20%;
+  height:300px;
+}
+.terror img{
+
+
+  border-radius: 20%;
+  height:300px;
+}
+.tribes img{
+
+
+  border-radius: 20%;
+  height:300px;
+}
+.teen img{
+
+
+  border-radius: 20%;
+  height:300px;
+}
+.host img{
+
+
+  border-radius: 20%;
+  height:300px;
+}
+.echo img{
+
+
+  border-radius: 20%;
+  height:300px;
+}
+.cont img{
+
+
+  border-radius: 20%;
+  height:300px;
+}
+.ransom img{
+
+
+  border-radius: 20%;
+  height:300px;
+}
+.nova img{
+
+
+  border-radius: 20%;
+  height:300px;
+}
+.lucifer img{
+
+
+  border-radius: 20%;
+  height:300px;
+}
+.soul img{
+
+
+  border-radius: 20%;
+  height:300px;
+}
+.soul img{
+
+
+  border-radius: 20%;
+  height:300px;
+}
+.origin img{
+
+
+  border-radius: 20%;
+  height:300px;
+}
+.grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 20px;
+      
+    }
+ul li{
+  margin-left:120px;
+  display: flex;
+  justify-content: space-between;
+}
+.img{
+    width:700px;
+    height:1200px;
+}
+.container {
+  position: relative;
+  
+}
+.overlay {
+  position: absolute; 
+  color:white;
+  margin-top:100px;
+  border-radius: 120px;
+  margin-left:20px;
+  
+  
+}
+.re{
+  display: flex;
+  justify-content: space-between;
+  
+  
+}
+
+.gr img{
+  border-radius: 80%;
+  border: 10px solid lightgreen;
+  height: 70px;
+}
+button{
+  background-color: rgb(228, 228, 11);
+  border-radius: 10px;
+  font-size: 40px;
+  padding: 10px;
+}
+.gr{
+  display: flex;
+  justify-content: space-between;
+  
+
+}
+p{
+  font-size:20px ;
+  
+}
+.fle{
+  gap:30px;
+}
+.container-fluid img{
+  border-radius: 50%;
+  height:70px;
+  border:6px solid white;
+  
+}
+.foot img{
+  border-radius: 50%;
+  
+  border:6px solid white;
+  
+
+}
+
+
+.foot img {
+  width: 100px;
+  border-radius: 20%;
+}
+
+.foot {
+  margin-top: 600px;
+}
+
+th,
+td {
+  border-style: hidden;
+}
+
+h1 {
+  font-size: 35px;
+
+}
+.socialmedia {
+  display: grid;
+  grid-template-columns: repeat(3, 2fr);
+  margin-left: 1200px;
+  height: 300px;
+
+
+}
+.play {
+  border: 1px solid black;
+  width: 300px;
+  border-radius: 12px;
+
+
+}
+
+.play {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 12px;
+
+}
+.play img {
+  width: 60px;
+  height: auto;
+}
+
+.fle {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 90px;
+  
+
+
+}
+.app {
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid black;
+  border-radius: 12px;
+  width: 300px;
+
+
+}
+
+
+.d-flex{
+  display: flex;
+  justify-content: space-between;
+}
+.table{
+  margin-left: 20px;
+}
+
+
+
+
+
+
